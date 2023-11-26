@@ -9,3 +9,4 @@ Proceso balanza
 		escribir "desequilibrado"
 	Fin Si
 FinProceso
+--Comentarios adicionales
